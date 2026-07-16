@@ -1,4 +1,4 @@
-# EarnWise
+# EarnWise-APP
 EarnWise - Remote Jobs, Learning and Earnings Platform
 index.html
 login.html
